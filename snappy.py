@@ -4,3 +4,8 @@
 
 print("Hello World")
 print("Hello from GitHub")
+
+a = 1
+b = 2 
+c = a + b
+
